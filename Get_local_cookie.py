@@ -56,4 +56,4 @@ def get_local_cookie(cookie_url):
 
 
 if __name__ == '__main__':
-    print(get_local_cookie('.v.qq.com')+'; '+get_local_cookie('.qq.com'))
+    print(get_local_cookie(''))
