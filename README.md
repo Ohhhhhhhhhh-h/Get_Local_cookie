@@ -6,6 +6,6 @@ To avoid conflicts with the browser when connecting to the database, the script 
 
 Step:
 
-from Get_local_cookie import get_local_cookie
+    from Get_local_cookie import get_local_cookie
 
-  \tcookie = get_local_cookie(you url)
+      cookie = get_local_cookie(you url)
